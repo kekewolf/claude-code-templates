@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T09:37:11.335269+00:00",
+  "lastUpdated": "2026-11-15T10:05:43.448969+00:00",
   "totalJobs": 775,
   "sources": [
     "Anthropic",
@@ -24,7 +24,7 @@
       "applyUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
       "source": "Greenhouse",
       "sourceUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
-      "postedAt": "2026-11-14T04:28:16-05:00",
+      "postedAt": "2026-11-15T04:59:10-05:00",
       "tags": [
         "Claude Code",
         "Python",
@@ -35,6 +35,32 @@
         "MCP"
       ],
       "companyIcon": ""
+    },
+    {
+      "id": "anth-5469291008",
+      "company": "Anthropic",
+      "position": "Engineering Manager, Billing Platform",
+      "location": "San Francisco, CA · New York City, NY · Seattle, WA",
+      "locations": [
+        "San Francisco, CA",
+        "New York City, NY",
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Anthropic exists to ensure the world safely navigates the transition through transformative AI. That work is funded by commercial revenue — and every dollar of it runs through Billing Platform. We build and operate the infrastructure that turns product usage into revenue across everything Anthropic...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5469291008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5469291008",
+      "postedAt": "2026-11-14T15:19:44-05:00",
+      "tags": [
+        "Claude Code",
+        "Python",
+        "Go",
+        "Java",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "gr-fivetran-8007249003",
@@ -295,19 +321,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-fivetran-7859203003",
+      "id": "gr-fivetran-7823195003",
       "company": "Fivetran",
       "position": "Engineering Manager, Metadata",
-      "location": "Oakland, California, United States",
+      "location": "Denver, Colorado, United States, AMER",
       "locations": [
-        "Oakland, California, United States"
+        "Denver, Colorado, United States, AMER"
       ],
       "remote": false,
       "salary": "",
       "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more...",
-      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
+      "applyUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7859203003",
+      "sourceUrl": "https://www.fivetran.com/careers/job?gh_jid=7823195003",
       "postedAt": "2026-11-13T15:30:56-05:00",
       "tags": [
         "Claude Code",
@@ -2126,19 +2152,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-mongodb-8036348",
+      "id": "gr-mongodb-7778975",
       "company": "MongoDB",
       "position": "Senior Administrator - Business Systems",
-      "location": "Gurugram",
+      "location": "India",
       "locations": [
-        "Gurugram"
+        "India"
       ],
       "remote": false,
       "salary": "",
-      "description": "The IT SaaS Engineering Team plays a critical role in optimizing MongoDB sales processes, streamlining customer interactions, and maximizing the efficiency of our sales efforts. By leveraging Salesforce, the team ensures that business users have the tools, automation, security, and governance...",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8036348",
+      "description": "We are looking to speak to candidates who are based in India for our hybrid working model. About MongoDB The database market is massive, and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing applications that people...",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7778975",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8036348",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7778975",
       "postedAt": "2026-11-12T09:41:56-05:00",
       "tags": [
         "Claude Code",
@@ -2150,7 +2176,7 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-mongodb-8094365",
+      "id": "gr-mongodb-8094387",
       "company": "MongoDB",
       "position": "Senior Engineer - GTM Tech",
       "location": "Gurugram",
@@ -2159,10 +2185,10 @@
       ],
       "remote": false,
       "salary": "",
-      "description": "The IT SaaS Engineering Team plays a critical role in optimizing MongoDB sales processes, streamlining customer interactions, and maximizing the efficiency of our sales efforts. By leveraging Salesforce, the team ensures that business users have the tools, automation, security, and governance...",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094365",
+      "description": "About Team The IT SaaS Engineering Team is the backbone of MongoDB's go-to-market operations. We build and run the Salesforce platform — with the automation, security, and governance that Sales Operations, Revenue Operations, Security, and Compliance rely on daily to manage customer relationships...",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094387",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094365",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=8094387",
       "postedAt": "2026-11-12T09:41:56-05:00",
       "tags": [
         "Claude Code",
@@ -2209,20 +2235,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-mongodb-7392902",
+      "id": "gr-mongodb-7590735",
       "company": "MongoDB",
       "position": "Senior Software Engineer, Forward Deployed AI Engineer",
-      "location": "Cork, Ireland · Dublin, Ireland",
+      "location": "Ireland",
       "locations": [
-        "Cork, Ireland",
-        "Dublin, Ireland"
+        "Ireland"
       ],
       "remote": false,
       "salary": "",
       "description": "MongoDB is looking for an outstanding person to join our newly created Forward Deployed Engineering team and take on a key role in our extended R&D organization. Forward Deployed Engineering is linking the work of teams engaged on application modernization roles with our Product and Engineering...",
-      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7392902",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7590735",
       "postedAt": "2026-11-12T09:41:56-05:00",
       "tags": [
         "Claude Code",
@@ -2638,7 +2663,7 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-opswat-4738784005",
+      "id": "gr-opswat-4302497005",
       "company": "OPSWAT",
       "position": "AI Native Software Engineer - Secure File Gateway",
       "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
@@ -2648,9 +2673,9 @@
       "remote": false,
       "salary": "",
       "description": "OPSWAT , a global leader in IT, OT , and ICS critical infrastructure cybersecurity, delivers an end-to-end platform that gives public and private sector organizations and enterprises the critical advantage needed to protect their complex networks, secure their devices, and ensure compliance. Over...",
-      "applyUrl": "https://www.opswat.com/jobs/4738784005?gh_jid=4738784005",
+      "applyUrl": "https://www.opswat.com/jobs/4302497005?gh_jid=4302497005",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.opswat.com/jobs/4738784005?gh_jid=4738784005",
+      "sourceUrl": "https://www.opswat.com/jobs/4302497005?gh_jid=4302497005",
       "postedAt": "2026-11-11T05:35:53-05:00",
       "tags": [
         "Claude Code",
@@ -3331,32 +3356,6 @@
       "companyIcon": "https://mixpanel.com/favicon.ico"
     },
     {
-      "id": "gr-hugeinc-8331753",
-      "company": "HugeInc",
-      "position": " Freelance Senior Software Engineer",
-      "location": "Colombia",
-      "locations": [
-        "Colombia"
-      ],
-      "remote": false,
-      "salary": "",
-      "description": "Location: This position is remote within Colombia. About Technology. Technology at Huge is powered by a global practice of creative technologists—spanning Engineers, QA specialists, Business Analysts, Data Scientists, and ML Architects—we look beyond standard patterns to build resilient,...",
-      "applyUrl": "https://job-boards.greenhouse.io/hugeinc/jobs/8331753",
-      "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/hugeinc/jobs/8331753",
-      "postedAt": "2026-11-10T17:28:26-05:00",
-      "tags": [
-        "Claude Code",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "Azure",
-        "Copilot",
-        "GraphQL"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-wizinc-4719843006",
       "company": "Wiz, Inc.",
       "position": "Manager of Applied AI, Solutions Support Engineering",
@@ -3730,19 +3729,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-8281479",
+      "id": "gr-samsara-8281491",
       "company": "Samsara",
       "position": "Senior AI Data & Analytics Engineer II",
-      "location": "Remote - NYC",
+      "location": "Remote - MA",
       "locations": [
-        "Remote - NYC"
+        "Remote - MA"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8281479?gh_jid=8281479",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8281491?gh_jid=8281491",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281479?gh_jid=8281479",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/8281491?gh_jid=8281491",
       "postedAt": "2026-11-10T11:47:15-05:00",
       "tags": [
         "Claude Code",
@@ -4147,19 +4146,19 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "gr-affirm-8011038003",
+      "id": "gr-affirm-8011040003",
       "company": "Affirm",
       "position": "Staff Product Manager, Consumer Growth Loyalty",
-      "location": "Remote US",
+      "location": "Remote Canada",
       "locations": [
-        "Remote US"
+        "Remote Canada"
       ],
       "remote": true,
-      "salary": "$230,000 - $290,000",
+      "salary": "$181,000 - $241,000",
       "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Product team The Product team listens to our customers’ needs and translates those insights into a clear...",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011038003",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011040003",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011038003",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8011040003",
       "postedAt": "2026-11-09T16:58:19-05:00",
       "tags": [
         "Claude Code",
@@ -7275,19 +7274,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-epicgames-6206041004",
+      "id": "gr-epicgames-6021022004",
       "company": "Epic Games",
       "position": "Lead Gameplay Programmer",
-      "location": "BLANK,BLANK,Multiple Locations",
+      "location": "Montreal,Quebec,Canada",
       "locations": [
-        "BLANK,BLANK,Multiple Locations"
+        "Montreal,Quebec,Canada"
       ],
       "remote": false,
       "salary": "",
       "description": "WHAT MAKES US EPIC? At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stunning interactive...",
-      "applyUrl": "https://epicgames.com/careers/jobs/6206041004?gh_jid=6206041004",
+      "applyUrl": "https://epicgames.com/careers/jobs/6021022004?gh_jid=6021022004",
       "source": "Greenhouse",
-      "sourceUrl": "https://epicgames.com/careers/jobs/6206041004?gh_jid=6206041004",
+      "sourceUrl": "https://epicgames.com/careers/jobs/6021022004?gh_jid=6021022004",
       "postedAt": "2026-11-03T16:19:38-05:00",
       "tags": [
         "Claude Code"
@@ -9055,19 +9054,19 @@
       "companyIcon": "https://wealthsimple.com/favicon.ico"
     },
     {
-      "id": "gr-affirm-8036613003",
+      "id": "gr-affirm-7718808003",
       "company": "Affirm",
       "position": "Security Risk Management Lead",
-      "location": "Remote Canada",
+      "location": "Remote US",
       "locations": [
-        "Remote Canada"
+        "Remote US"
       ],
       "remote": true,
-      "salary": "$128,000 - $188,000",
-      "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden...",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8036613003",
+      "salary": "$165,000 - $225,000",
+      "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm values security as being critical to the company’s continued success. Our mission is to cultivate a culture of...",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7718808003",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/8036613003",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7718808003",
       "postedAt": "2026-10-30T17:15:12-04:00",
       "tags": [
         "Claude Code",
@@ -9103,19 +9102,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-affirm-7829429003",
+      "id": "gr-affirm-7829427003",
       "company": "Affirm",
       "position": "Staff Software Engineer, Mobile (App Infrastructure)",
-      "location": "Remote Canada",
+      "location": "Remote US",
       "locations": [
-        "Remote Canada"
+        "Remote US"
       ],
       "remote": true,
-      "salary": "$181,000 - $241,000",
+      "salary": "$230,000 - $290,000",
       "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. App Infrastructure is the team behind Affirm's shared mobile app infrastructure — the platform every other mobile...",
-      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+      "sourceUrl": "https://job-boards.greenhouse.io/affirm/jobs/7829427003",
       "postedAt": "2026-10-30T17:15:12-04:00",
       "tags": [
         "Claude Code",
@@ -9390,19 +9389,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-samsara-7752678",
+      "id": "gr-samsara-8109358",
       "company": "Samsara",
       "position": "Staff Software Engineer, DevEx",
-      "location": "Remote - US",
+      "location": "Remote - Canada",
       "locations": [
-        "Remote - US"
+        "Remote - Canada"
       ],
       "remote": true,
       "salary": "",
       "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping...",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678",
+      "applyUrl": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358",
       "source": "Greenhouse",
-      "sourceUrl": "https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358",
       "postedAt": "2026-10-30T11:15:54-04:00",
       "tags": [
         "Claude Code",
@@ -9587,19 +9586,19 @@
       "companyIcon": "https://gusto.com/favicon.ico"
     },
     {
-      "id": "gr-epicgames-6122975004",
+      "id": "gr-epicgames-6122977004",
       "company": "Epic Games",
       "position": "Principal Engineer, AI Platform",
-      "location": "Cary,North Carolina,United States",
+      "location": "BLANK,BLANK,Multiple Locations",
       "locations": [
-        "Cary,North Carolina,United States"
+        "BLANK,BLANK,Multiple Locations"
       ],
       "remote": false,
       "salary": "",
       "description": "WHAT MAKES US EPIC? At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stunning interactive...",
-      "applyUrl": "https://epicgames.com/careers/jobs/6122975004?gh_jid=6122975004",
+      "applyUrl": "https://epicgames.com/careers/jobs/6122977004?gh_jid=6122977004",
       "source": "Greenhouse",
-      "sourceUrl": "https://epicgames.com/careers/jobs/6122975004?gh_jid=6122975004",
+      "sourceUrl": "https://epicgames.com/careers/jobs/6122977004?gh_jid=6122977004",
       "postedAt": "2026-10-30T08:51:14-04:00",
       "tags": [
         "Claude Code",
@@ -15750,19 +15749,19 @@
       "companyIcon": "https://intercom.com/favicon.ico"
     },
     {
-      "id": "gr-tailscale-4721714005",
+      "id": "gr-tailscale-4721713005",
       "company": "Tailscale",
       "position": "Software Engineer, Strategic Projects",
-      "location": "Remote (United States)",
+      "location": "Remote (Canada)",
       "locations": [
-        "Remote (United States)"
+        "Remote (Canada)"
       ],
       "remote": true,
       "salary": "",
       "description": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break...",
-      "applyUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721714005",
+      "applyUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721714005",
+      "sourceUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
       "postedAt": "2026-09-29T20:38:27-04:00",
       "tags": [
         "Claude Code",
@@ -16788,19 +16787,19 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-babylist-6103791004",
+      "id": "gr-babylist-5678188004",
       "company": "Babylist",
       "position": "Staff Software Engineer",
-      "location": "United States",
+      "location": "Canada",
       "locations": [
-        "United States"
+        "Canada"
       ],
       "remote": false,
       "salary": "",
       "description": "What The Role Is As a Staff Engineer at Babylist, you own some of our hardest domains and decide where they go. Millions of families depend on what we build. Agents write most of the code now. So the hard part is yours: what to build, how it should work and whether what shipped was right. You're...",
-      "applyUrl": "https://job-boards.greenhouse.io/babylist/jobs/6103791004",
+      "applyUrl": "https://job-boards.greenhouse.io/babylist/jobs/5678188004",
       "source": "Greenhouse",
-      "sourceUrl": "https://job-boards.greenhouse.io/babylist/jobs/6103791004",
+      "sourceUrl": "https://job-boards.greenhouse.io/babylist/jobs/5678188004",
       "postedAt": "2026-09-03T17:15:06-04:00",
       "tags": [
         "Claude Code",
