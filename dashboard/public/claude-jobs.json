@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-21T10:25:02.863839+00:00",
-  "totalJobs": 747,
+  "lastUpdated": "2026-11-22T10:29:06.521864+00:00",
+  "totalJobs": 748,
   "sources": [
     "Anthropic",
     "Ashby",
@@ -24,13 +24,36 @@
       "applyUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
       "source": "Greenhouse",
       "sourceUrl": "https://job-boards.greenhouse.io/deliveroo/jobs/8205846",
-      "postedAt": "2026-11-21T05:01:34-05:00",
+      "postedAt": "2026-11-22T05:12:55-05:00",
       "tags": [
         "Claude Code",
         "Python",
         "AWS",
         "GCP",
         "Kubernetes",
+        "Cursor",
+        "MCP"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-consumeredge-6252515004",
+      "company": "Consumer Edge",
+      "position": "Staff Data Engineer",
+      "location": "United States",
+      "locations": [
+        "United States"
+      ],
+      "remote": false,
+      "salary": "$175,000 - $210,000,",
+      "description": "Location: Remote (United States) ; requires ability to work east coast hours About Consumer Edge Join a dynamic team that's redefining consumer data analytics. Consumer Edge (“CE”) is a leading data and insights-as-a-service (IaaS) company specializing in the global consumer, B2B, and healthcare...",
+      "applyUrl": "https://job-boards.greenhouse.io/consumeredge/jobs/6252515004",
+      "source": "Greenhouse",
+      "sourceUrl": "https://job-boards.greenhouse.io/consumeredge/jobs/6252515004",
+      "postedAt": "2026-11-21T14:32:40-05:00",
+      "tags": [
+        "Claude Code",
+        "Python",
         "Cursor",
         "MCP"
       ],
@@ -4017,7 +4040,7 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-andurilindustries-5251234007",
+      "id": "gr-andurilindustries-5198870007",
       "company": "Anduril Industries",
       "position": "Senior Quality Engineer, Analytics",
       "location": "Ashville, Ohio, United States",
@@ -4027,9 +4050,9 @@
       "remote": false,
       "salary": "",
       "description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how...",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198870007?gh_jid=5198870007",
       "source": "Greenhouse",
-      "sourceUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007",
+      "sourceUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5198870007?gh_jid=5198870007",
       "postedAt": "2026-11-16T21:23:01-05:00",
       "tags": [
         "Claude Code",
@@ -10435,32 +10458,6 @@
       "companyIcon": ""
     },
     {
-      "id": "gr-toast-8191597",
-      "company": "Toast",
-      "position": "Senior Software Engineer, Release Engineering",
-      "location": "Remote, US",
-      "locations": [
-        "Remote, US"
-      ],
-      "remote": true,
-      "salary": "",
-      "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. The mission of the Release Engineering team is “to empower Toasters to build and deploy software with speed,...",
-      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8191597",
-      "source": "Greenhouse",
-      "sourceUrl": "https://careers.toasttab.com/jobs?gh_jid=8191597",
-      "postedAt": "2026-10-29T15:06:21-04:00",
-      "tags": [
-        "Claude Code",
-        "TypeScript",
-        "Go",
-        "PostgreSQL",
-        "AWS",
-        "Kotlin",
-        "Java"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "gr-nscaleoperationsukltd-5021031101",
       "company": "Nscale",
       "position": "Senior Manager, Developer Platforms",
@@ -10634,6 +10631,32 @@
       "postedAt": "2026-10-29T08:51:42.479+00:00",
       "tags": [
         "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "gr-toast-8333523",
+      "company": "Toast",
+      "position": "Senior Software Engineer, IQ Grow",
+      "location": "Dublin, Ireland",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "remote": false,
+      "salary": "",
+      "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. At Toast, the IQ Grow team is on a mission to scale new, high-impact go-to-market initiatives. By combining the...",
+      "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8333523",
+      "source": "Greenhouse",
+      "sourceUrl": "https://careers.toasttab.com/jobs?gh_jid=8333523",
+      "postedAt": "2026-10-29T06:41:35-04:00",
+      "tags": [
+        "Claude Code",
+        "React",
+        "PostgreSQL",
+        "Kotlin",
+        "Java",
+        "Tailwind",
+        "GraphQL"
       ],
       "companyIcon": ""
     },
